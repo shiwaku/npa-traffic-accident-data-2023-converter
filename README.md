@@ -18,7 +18,7 @@
 
 #### 使用データ
 - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2022_to-degree.csv`,75.6MB
-- コード表`https://github.com/shi-works/traffic-accident-data-2023-converter/tree/main/code`
+- コード表`https://github.com/shiwaku/npa-traffic-accident-data-2023-converter/tree/main/code`
 
 hit.csv is based on https://github.com/code4fukui/traffic-accident Thanks!
 
