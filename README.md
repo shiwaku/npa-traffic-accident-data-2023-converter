@@ -17,8 +17,8 @@
 - 十進法度単位に変換した本票CSVファイル（2023年）をコード表を元に読みやすいデータに変換するプログラムになります。
 
 #### 使用データ
-- `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2022_to-degree.csv`,75.6MB
-- コード表`https://github.com/shiwaku/npa-traffic-accident-data-2023-converter/tree/main/code`
+- [https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2022_to-degree.csv](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2022_to-degree.csv),75.6MB
+- コード表：[https://github.com/shiwaku/npa-traffic-accident-data-2023-converter/tree/main/code](https://github.com/shiwaku/npa-traffic-accident-data-2023-converter/tree/main/code)
 
 hit.csv is based on https://github.com/code4fukui/traffic-accident Thanks!
 
