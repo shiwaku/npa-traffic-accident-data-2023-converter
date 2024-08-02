@@ -42,7 +42,7 @@ hit.csv is based on https://github.com/code4fukui/traffic-accident Thanks!
 ##### GeoParquet形式
 - [https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.parquet](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.parquet),154MB
 ##### PMTiles形式
-- [https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.pmtiles](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.pmtiles),245MB
+- [https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.pmtiles](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.pmtiles),313MB
 
 ## デモサイト（MapLibre GL JS）
 - https://shiwaku.github.io/npa-traffic-accident-map-on-maplibre/
