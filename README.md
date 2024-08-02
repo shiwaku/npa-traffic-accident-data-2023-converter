@@ -45,8 +45,8 @@ hit.csv is based on https://github.com/code4fukui/traffic-accident Thanks!
 - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.pmtiles`,245MB
 
 ## デモサイト（MapLibre GL JS）
-- 使用データ：[交通事故統計情報のオープンデータ（2019年、2020年、2021年、2022年、2023年）の本票（PMTiles形式）](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.pmtiles)
 - https://shiwaku.github.io/npa-traffic-accident-map-on-maplibre/
+- 使用データ：交通事故統計情報のオープンデータ（2019年、2020年、2021年、2022年、2023年）の本票（PMTiles形式）
 
 ## 使用データ及び出力結果のライセンスについて
 本データセットは[CC-BY-4.0](https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/traffic-accident/LICENSE)で提供されます。使用の際には本レポジトリへのリンクを提示してください。
