@@ -1,6 +1,6 @@
 # npa-traffic-accident-data-2023-converter
 ## プログラムについて
-- 本プログラムは、警察庁が公開している、[交通事故統計情報のオープンデータ（2023年）の本票](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/2023/opendata_2023.html)を[コード表](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/2023/opendata_2023.html)を元に読みやすいデータ（GISデータ）に変換するプログラムになります。
+- 本プログラムは、警察庁が公開している、[交通事故統計情報のオープンデータ（2023年）の本票](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/2023/opendata_2023.html)を[コード表](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/2023/opendata_2023.html)をもとに読みやすい形式（GISデータ）に変換するプログラムになります。
 - Pythonで構築
 
 ### csvfile-to-degree.py
@@ -14,7 +14,7 @@
 - [https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2023_to-degree.csv](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2023_to-degree.csv),75.6MB  
 
 ### csvfile-convert.py
-- 十進法度単位に変換した本票CSVファイル（2023年）をコード表を元に読みやすいデータに変換するプログラムになります。
+- 十進法度単位に変換した本票CSVファイル（2023年）をコード表をもとに読みやすいデータに変換するプログラムになります。
 
 #### 使用データ
 - [https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2023_to-degree.csv](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2023_to-degree.csv),75.6MB
