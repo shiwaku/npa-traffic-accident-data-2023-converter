@@ -40,7 +40,7 @@ hit.csv is based on https://github.com/code4fukui/traffic-accident Thanks!
 ##### CSV形式
 - [https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.csv](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.csv),1.2GB  
 ##### GeoParquet形式
-※GDAL/OGRでGeoParquet形式に変換しています
+※[GDAL/OGR(OSGeo4W)](https://trac.osgeo.org/osgeo4w/)でGeoParquet形式に変換しています
 - [https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.parquet](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.parquet),154MB
 ##### PMTiles形式
 ※[felt/tippecanoe](https://github.com/felt/tippecanoe)でPMTiles形式に変換しています
