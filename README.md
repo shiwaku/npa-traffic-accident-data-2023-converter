@@ -49,7 +49,7 @@ hit.csv is based on https://github.com/code4fukui/traffic-accident Thanks!
 - 使用データ：交通事故統計情報のオープンデータ（2019年、2020年、2021年、2022年、2023年）の本票（PMTiles形式）
 
 ## 使用データ及び出力結果のライセンスについて
-本データセットは[CC-BY-4.0](https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/traffic-accident/LICENSE)で提供されます。使用の際には本レポジトリへのリンクを提示してください。
+本データセットは[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)で提供されます。使用の際には本レポジトリへのリンクを提示してください。
 
 また、本データセットは交通事故統計情報のオープンデータ（2019、2020、2021、2022、2023年）の本票を加工して作成したものです。本データセットの使用・加工にあたっては、[警察庁Webサイトの利用規約](https://www.npa.go.jp/rules/index.html)を必ずご確認ください。
 
