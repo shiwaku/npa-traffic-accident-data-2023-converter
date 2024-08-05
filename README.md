@@ -1,6 +1,6 @@
 # npa-traffic-accident-data-2023-converter
 ## プログラムについて
-- 本プログラムは、警察庁が公開している、[交通事故統計情報のオープンデータ（2023年）の本票](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/2023/opendata_2023.html)を[コード表](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/2023/opendata_2023.html)をもとに読みやすい形式（GISデータ）に変換するプログラムになります。
+- 本プログラムは、警察庁が公開している、[交通事故統計情報のオープンデータ](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/index_opendata.html)の[2023年の本票](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/2023/opendata_2023.html)を[コード表](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/2023/opendata_2023.html)をもとに読みやすい形式（GISデータ）に変換するプログラムになります。
 - Pythonで構築
 
 ### csvfile-to-degree.py
