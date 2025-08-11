@@ -61,3 +61,5 @@ hit.csv is based on https://github.com/code4fukui/traffic-accident Thanks!
 ## 本データセットの活用事例
 - 秋田魁新報社 | 秋田の交通事故マップ
 https://www.sakigake.jp/special/maps/traffic-accident/
+<img width="1898" height="907" alt="image" src="https://github.com/user-attachments/assets/df09e5de-80af-445d-9cfa-18f248ab7124" />
+
