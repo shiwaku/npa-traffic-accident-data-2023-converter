@@ -49,6 +49,7 @@ hit.csv is based on https://github.com/code4fukui/traffic-accident Thanks!
 ## デモサイト（MapLibre GL JS）
 - https://shiwaku.github.io/npa-traffic-accident-map-on-maplibre/
 - 使用データ：交通事故統計情報のオープンデータ（2019年、2020年、2021年、2022年、2023年）の本票（PMTiles形式）
+<img width="1911" height="906" alt="image" src="https://github.com/user-attachments/assets/09c04d37-593b-4850-b38f-a5e657ab3a68" />
 
 ## 使用データ及び出力結果のライセンスについて
 本データセットは[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)で提供されます。使用の際には本レポジトリへのリンクを提示してください。
