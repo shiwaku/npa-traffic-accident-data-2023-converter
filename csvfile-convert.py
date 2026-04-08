@@ -685,8 +685,7 @@ with open(output_csvfile, 'a', encoding='UTF-8') as f:
             str(data[i][25]))
 
         # 一時停止規制_表示（当事者B）
-        # res_itijiteisikisei_hyouji_b = itijiteisikisei_hyouji(int(data[i][26]))
-        res_itijiteisikisei_hyouji_b = itijiteisikisei_hyouji(str(data[i][24]))
+        res_itijiteisikisei_hyouji_b = itijiteisikisei_hyouji(str(data[i][26]))
 
         # 車道幅員
         res_syadouhukuin = syadouhukuin(str(data[i][27]))
