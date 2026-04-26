@@ -108,25 +108,6 @@ python csvfile-merge.py
 | 形式 | ファイル | サイズ | ダウンロード |
 |------|---------|--------|-------------|
 | CSV | `honhyo_2019-2023_convert.csv` | 1.2 GB | [ダウンロード](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.csv) |
-| GeoParquet | `honhyo_2019-2023_convert.parquet` | 154 MB | [ダウンロード](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.parquet) |
-| PMTiles | `honhyo_2019-2023_convert.pmtiles` | 313 MB | [ダウンロード](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.pmtiles) |
-
-GeoParquet への変換は [GDAL/OGR (OSGeo4W)](https://trac.osgeo.org/osgeo4w/) を使用。
-
-```bash
-# CSVからGeoParquetの作成
-ogr2ogr -f "Parquet" honhyo_2019-2023_convert.parquet honhyo_2019-2023_convert.csv -oo X_POSSIBLE_NAMES=地点_経度（東経）_10進数 -oo Y_POSSIBLE_NAMES=地点_緯度（北緯）_10進数 -s_srs EPSG:4326 -t_srs EPSG:4326
-
-# CSVからGeoJSONの作成
-ogr2ogr -f "GeoJSON" honhyo_2019-2023_convert.geojson honhyo_2019-2023_convert.csv -oo X_POSSIBLE_NAMES=地点_経度（東経）_10進数 -oo Y_POSSIBLE_NAMES=地点_緯度（北緯）_10進数 -s_srs EPSG:4326 -t_srs EPSG:4326
-```
-
-PMTiles への変換は [felt/tippecanoe](https://github.com/felt/tippecanoe) を使用。
-
-```bash
-# PMTilesの作成
-tippecanoe -o honhyo_2019-2023_convert.pmtiles honhyo_2019-2023_convert.geojson -pf -pk -P -B12
-```
 
 ---
 
