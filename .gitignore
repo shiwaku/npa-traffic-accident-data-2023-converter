@@ -1,0 +1,16 @@
+# 入力データ
+data/
+csv/
+
+# 出力ファイル
+honhyo_*.csv
+honhyo_*.geojson
+honhyo_*.parquet
+honhyo_*.pmtiles
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
